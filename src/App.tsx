@@ -18,7 +18,7 @@ import working from './audio/working.mp3';
 function App() {
     const [welcomeClicked, setWelcomeClicked] = useState(false);
 
-    const iconClassName = "text-blue-900 h-1/2"
+    const iconClassName = "text-blue-900 h-14 lg:h-32"
 
     const buttonMeta = {
         buttons: [
@@ -125,9 +125,9 @@ function App() {
         ],
     };
     return (
-        <div className="h-full">
+        <div className="h-screen">
             {welcomeClicked ? (
-                <div className="h-full p-8 bg-gradient-to-t from-sky-900 to-blue-900 grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8">
+                <div className="h-screen bg-gradient-to-t from-sky-900 to-blue-900 grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-8 p-8">
                     {buttonMeta.buttons.map((buttonMeta) => {
                         return <SoundButton buttonInfo={buttonMeta} />;
                     })}
