@@ -1,0 +1,18 @@
+{
+  "buttons": [
+    { "alt": "pepper monologue", "ico": "pepper", "link": "" },
+    { "alt": "triple threat", "ico": "film", "link": "" },
+    { "alt": "winning", "ico": "trophy", "link": "" },
+    { "alt": "cheaters?", "ico": "glasses", "link": "" },
+    { "alt": "wildcat", "ico": "tiger", "link": "" },
+    { "alt": "john williams music", "ico": "indiana jones hat", "link": "" },
+    {
+      "alt": "alexa play bills poolside playlist",
+      "ico": "pool",
+      "link": ""
+    },
+    { "alt": "slippery nipple?", "ico": "cocktail", "link": "" },
+    { "alt": "that's unique", "ico": "gross", "link": "" },
+    { "alt": "last one", "ico": "idk", "link": "" }
+  ]
+}
