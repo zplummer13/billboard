@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/billboard/static/css/main.d7f3d80e.css",
+    "main.js": "/billboard/static/js/main.557980bb.js",
+    "static/js/845.838ea2d1.chunk.js": "/billboard/static/js/845.838ea2d1.chunk.js",
+    "static/js/787.19cbc53a.chunk.js": "/billboard/static/js/787.19cbc53a.chunk.js",
+    "static/media/dog.png": "/billboard/static/media/dog.9f118be7a8d4a86ddc79.png",
+    "static/media/triple-threat.mp3": "/billboard/static/media/triple-threat.068d8de9de73eb83f611.mp3",
+    "static/media/peppers.mp3": "/billboard/static/media/peppers.ca9fcbea3f7b6c33d186.mp3",
+    "static/media/spotify.mp3": "/billboard/static/media/spotify.915b0c83374c6ff6d1be.mp3",
+    "static/media/hard-braking.mp3": "/billboard/static/media/hard-braking.9dc5e608c40a047467fc.mp3",
+    "static/media/wildcat.mp3": "/billboard/static/media/wildcat.7769719b4e1e20923544.mp3",
+    "static/media/unique.mp3": "/billboard/static/media/unique.8b7000d9d6b801ab9726.mp3",
+    "static/media/lime.mp3": "/billboard/static/media/lime.f6755699e4fc80d1d426.mp3",
+    "static/media/working.mp3": "/billboard/static/media/working.51f6048ded7b5fe9ed2f.mp3",
+    "static/media/dad.mp3": "/billboard/static/media/dad.9a711ddd2be2d336e612.mp3",
+    "static/media/winning.mp3": "/billboard/static/media/winning.e031fb75961497afb402.mp3",
+    "index.html": "/billboard/index.html",
+    "main.d7f3d80e.css.map": "/billboard/static/css/main.d7f3d80e.css.map",
+    "main.557980bb.js.map": "/billboard/static/js/main.557980bb.js.map",
+    "845.838ea2d1.chunk.js.map": "/billboard/static/js/845.838ea2d1.chunk.js.map",
+    "787.19cbc53a.chunk.js.map": "/billboard/static/js/787.19cbc53a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7f3d80e.css",
+    "static/js/main.557980bb.js"
+  ]
+}
